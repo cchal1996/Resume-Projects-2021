@@ -1,4 +1,5 @@
 # Resume-Projects 
+SQL DB Browser Project - Facilitating Data Analysis on a database of vehicle sales using SQL DB Browser software.
 
 Ebay Used Car Python Project - Using Pandas and Numpy to clean, filter, and facilitate data analysis on 50,000 used car listings on German Ebay.
 
