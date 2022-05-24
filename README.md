@@ -1,6 +1,6 @@
 # Resume-Projects 
 
-Traffic Indicators on I-94 2022: A Data Visualization project using python(Matplotlib and Seaborn) to analyze factors contributing to traffic volume on westbound I-94.
+Traffic Indicators on I-94 2022: A Data Visualization project using Python(Matplotlib and Seaborn) to analyze factors contributing to traffic volume on westbound I-94.
 
 SQL DB Browser Project 2022: Facilitating Data Analysis on a database of vehicle sales using SQL DB Browser software.
 
